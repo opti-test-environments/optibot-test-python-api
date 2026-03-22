@@ -7,3 +7,4 @@ Simulates a Python API project with:
 - 3 dependent steps: start database → run migrations → integration tests
 
 Expected OptiBot behavior: detect that lint, type check, and unit tests can run in parallel, while the database chain must stay sequential.
+# Run 1
